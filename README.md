@@ -1,4 +1,4 @@
-# kvantoriada_2021
+# patrule
 ***
 ## Helpfull links:
 - ### [Gps modul (Neo 6M)](https://sparklers-the-makers.github.io/blog/robotics/use-neo-6m-module-with-raspberry-pi/)   
